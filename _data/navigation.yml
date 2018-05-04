@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: /homepage/
+  - title: "Videos"
+    url: /videos/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blogs"
+    url: /categories/
+  - title: "Codes"
+    url: https://github.com/yuzhangbit
+  - title: "Publications"
+    url: /publications/
+  - title: "About"
+    url: /
